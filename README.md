@@ -68,7 +68,7 @@ O ***Phosphor Icons** é uma biblioteca de ícones personalizáveis para React.
 1. Clone o repositório:
 ```bash
 git clone https://github.com/matheusjsgama/todo-react-ts.git
-cd social-feed-app
+todo-react-ts.git
 ```
 
 2. Instale as dependências:
