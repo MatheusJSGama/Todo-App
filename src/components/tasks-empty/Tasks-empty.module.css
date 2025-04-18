@@ -1,0 +1,38 @@
+.taskEmpty{
+    width: 16.6rem;
+    height: 18rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 0.5rem;
+    padding: 4rem 1.5rem;
+    gap: 1rem;
+    border-top: solid 2px var(--gray-400);
+    margin-top: 50px;
+    animation: fadeIn 0.7s forwards ease-in;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    line-height: 140%;
+    color: var(--gray-300);
+    width: 12.62rem;
+    font-weight: 300;
+}
+
+.text span{
+    font-weight: 700;
+}
+
+@keyframes fadeIn {
+    0%{
+        opacity: 0;
+    }
+
+    100%{
+        opacity: 1;
+    }
+}
