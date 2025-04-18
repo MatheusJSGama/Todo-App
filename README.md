@@ -2,11 +2,15 @@
 
 Uma aplicação simples de lista de tarefas desenvolvida com **React**, **TypeScript** e **Phosphor React Icons**. Ideal para organizar suas tarefas diárias de forma prática e intuitiva.
 
-## 🖼️ Preview
+---
 
-![Preview da aplicação](./public/preview.png) <!-- Atualize com a imagem real se tiver -->
+# 🎞️ Vídeo da apicação:
 
-## 🚀 Tecnologias Utilizadas
+https://github.com/user-attachments/assets/907747e7-a785-44ec-8406-1af6da202281
+
+---
+
+# 🚀 Tecnologias Utilizadas
 
 ### ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -31,6 +35,8 @@ O **CSS Modules** permite escrever CSS de forma modular e com escopo local.
 ### ![Phosphor Icons](https://img.shields.io/badge/Phosphor%20Icons-3F3F46?style=for-the-badge&logo=iconify&logoColor=white)
 O ***Phosphor Icons** é uma biblioteca de ícones personalizáveis para React.
 - Utilizado para exibir ícones de adicionar, deletar e status das tarefas de forma elegante e responsiva.
+
+---
 
 ## ✨ Funcionalidades
 
